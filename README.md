@@ -1,6 +1,4 @@
-# spanishnumbers
-
-A new Flutter project.
+# Spanishnumbers
 
 ## Getting Started
 
