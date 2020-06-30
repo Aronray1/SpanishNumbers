@@ -12,12 +12,10 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 class Callthis extends StatefulWidget {
   @override
   _CallthisState createState() => _CallthisState();
 }
-
 class _CallthisState extends State<Callthis> {
   var count=0;
    List<String> mylist=[
