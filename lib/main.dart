@@ -53,13 +53,11 @@ class _CallthisState extends State<Callthis> {
               FlatButton(
                 color:Colors.orangeAccent,
                 onPressed: (){
-                
                  setState(() {
                    if(count<mylist.length){
                       defaultText=mylist[count];
                       defaultTextenglish=mylistenglish[count];
                      count++;
-                     
                    }
                    else{
                      count=0;
